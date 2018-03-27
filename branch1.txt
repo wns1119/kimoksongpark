@@ -1,1 +1,7 @@
-브랜치1에 들어간 파일 수정
+#include <stdio.h>
+
+int main()
+{
+	printf("Hello World\n");
+	return 0;
+}
